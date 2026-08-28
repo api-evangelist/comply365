@@ -12,6 +12,17 @@ description: >-
   regulatory compliance, and connect frontline teams to the current, approved content
   they need. The company is an Insight Partners portfolio company and is an ISO 27001
   and ISO 9001 certified organization.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
